@@ -1,0 +1,2 @@
+# EFI
+HP暗影精灵2 i5 HQ7300 GTX1050Ti 2G 
